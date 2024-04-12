@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "First Article",
+        "html": "<p>This is the HTML content of the first article.</p>",
+        "js": "console.log('JavaScript for first article');",
+        "css": "body { background-color: #fafafa; }"
+    },
+    {
+        "id": "2",
+        "title": "Second Article",
+        "html": "<p>This is the HTML content of the second article.</p>",
+        "js": "console.log('JavaScript for second article');",
+        "css": "body { background-color: #ffffff; }"
+    },
+    {
+        "id": "3",
+        "title": "Third Article",
+        "html": "<p>This is the HTML content of the third article.</p>",
+        "js": "console.log('JavaScript for third article');",
+        "css": "body { background-color: #eeeeee; }"
+    }
+]

@@ -1,0 +1,5 @@
+module cJavaScriptCore [system] {
+    header "/usr/include/webkitgtk-4.0/JavaScriptCore/JavaScript.h"
+    link "webkit2gtk-4.0"
+    export *
+}
